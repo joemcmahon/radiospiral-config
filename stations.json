@@ -1,0 +1,12 @@
+{
+    "station":
+    [
+     {
+     "name": "RadioSpiral",
+     "streamURL": "http://radio.radiospiral.net:8000/stream.mp3",
+     "imageURL": "https://static.wixstatic.com/media/4bf804_2df78c427d674cdd88ba26eaa0a7b7c1~mv2.png/v1/fill/w_179,h_108,al_c,usm_0.66_1.00_0.01/4bf804_2df78c427d674cdd88ba26eaa0a7b7c1~mv2.png",
+     "desc": "Captivating Electronica, hosted and live, 24 hours a day",
+     "longDesc": "RadioSpiral was founded by Mike Metlay and Diana Smethurst as a means to continue what they both love doing - promoting electronica by performing it and hosting shows with some of the best of the genre. We're commited to the promotion of electronic/ambient music, and endeavour to not only air great electronica on the station but use other media, such as Second Life, to share it with new listeners."
+     }
+    ]
+}
