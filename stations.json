@@ -3,7 +3,7 @@
     [
      {
      "name": "Radio Spiral",
-     "streamURL": "http://radiospiral.radio:8000/stream.mp3",
+     "streamURL": "https://a9.asurahosting.com/listen/djcosmos/radio.mp3",
      "imageURL": "https://raw.githubusercontent.com/joemcmahon/radiospiral-config/master/logo.png",
      "desc": "Captivating Electronica",
      "longDesc": "Captivating electronica, 24/7\n Playing some of the best in the genre of electronic/ambient music, featuring live DJs and live performances."
