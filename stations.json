@@ -2,11 +2,14 @@
     "station":
     [
      {
-     "name": "Radio Spiral",
-     "streamURL": "https://a9.asurahosting.com/listen/djcosmos/radio.mp3",
-     "imageURL": "https://raw.githubusercontent.com/joemcmahon/radiospiral-config/master/logo.png",
-     "desc": "Captivating Electronica",
-     "longDesc": "Captivating electronica, 24/7\n Playing some of the best in the genre of electronic/ambient music, featuring live DJs and live performances."
-     }
+       "name": "RadioSpiral",
+       "streamURL": "https://a9.asurahosting.com/listen/djcosmos/radio.mp3",
+       "imageURL": "https://raw.githubusercontent.com/joemcmahon/radiospiral-config/master/logo.png",
+       "desc": "captivating electronica",
+       "longDesc": "Our primary stream, featuring a selected set of our library of captivating electronica, 24/7.\nFeaturing live DJs and live performances, every day of the week.",
+       "serverName": "a9.asurahosting.com",
+       "shortCode": "djcosmos",
+       "defaultDJ": "Spud the Ambient Robot",
+     },
     ]
 }
