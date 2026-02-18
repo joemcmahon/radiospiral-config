@@ -23,14 +23,15 @@
     {
       "format": "common",
       "credits": [
-        ["Curator & founder", "Mike Metlay (Mr. Spiral)"],
-        ["Second Life, cofounder", "Diana Smethurst (Gypsy Witch)"],
-        ["Keeping the lights on", "Paul Harriman (Edison Rex)"],
-        ["Bots & chats & iOS", "Joe McMahon (Equinox Deschanel)"],
-        ["Bullhorn", "Rebekkah Hilgraves (ʞu¡0ɹʞS)"],
-        ["Downtime DJ & attitude", "Spud the Ambient Robot"],
-        ["General nuisance and Linux", "José Carlos Cuevas"],
-        ["Rad artwork and sequncers", "Brad Ross-MacLeod (Synchysis)"]
+        {"role": "Curator & founder",           "name": "Mike Metlay (Mr. Spiral)"},
+        {"role": "Second Life, cofounder",      "name": "Diana Smethurst (Gypsy Witch)"},
+        {"role": "Keeping the lights on",       "name": "Paul Harriman (Edison Rex)"},
+        {"role": "Bots & chats & iOS",          "name": "Joe McMahon (Equinox Deschanel)"},
+        {"role": "Bullhorn",                    "name": "Rebekkah Hilgraves (ʞu¡0ɹʞS)"},
+        {"role": "Wild enthusiasm and remixes", "name": "Kyzil"},
+        {"role": "General nuisance and Linux",  "name": "José Carlos Cuevas"},
+        {"role": "Rad artwork and sequncers",   "name": "Brad Ross-MacLeod (Synchysis)"},
+        {"role": "Downtime DJ & attitude",      "name": "Spud the Ambient Robot"}  
       ]
     }
   ]
