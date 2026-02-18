@@ -19,6 +19,19 @@
           "defaultDJ": "Spud the Ambient Robot"
         }
       ]
+    },
+    {
+      "format": "common",
+      "credits": [
+        ["Curator & founder", "Mike Metlay (Mr. Spiral)"],
+        ["Second Life, cofounder", "Diana Smethurst (Gypsy Witch)"],
+        ["Keeping the lights on", "Paul Harriman (Edison Rex)"],
+        ["Bots & chats & iOS", "Joe McMahon (Equinox Deschanel)"],
+        ["Bullhorn", "Rebekkah Hilgraves (ʞu¡0ɹʞS)"],
+        ["Downtime DJ & attitude", "Spud the Ambient Robot"],
+        ["General nuisance and Linux", "José Carlos Cuevas"],
+        ["Rad artwork and sequncers", "Brad Ross-MacLeod (Synchysis)"]
+      ]
     }
   ]
 }
