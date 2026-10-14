@@ -1,0 +1,24 @@
+{
+  "configs": [
+    {
+      "format": "azuracast",
+      "server": "spiraltest.harriman4.com",
+      "exclude": []
+    },
+    {
+      "format": "static",
+      "stations": [
+        {
+          "name": "Radiospiral ONE",
+          "streamURL": "https://spiraltest.harriman4.com/listen/rs-one/radio.mp3",
+          "imageURL": "https://raw.githubusercontent.com/joemcmahon/radiospiral-config/master/logo.png",
+          "desc": "staging: primary channel",
+          "longDesc": "Our primary channel, with an eclectic selection of music 24/7. We have shows and live performances from our many DJs and continuous music the rest of the time from Spud the Ambient Robot.\nStaging server, for testing only.",
+          "serverName": "spiraltest.harriman4.com",
+          "shortCode": "rs-one",
+          "defaultDJ": "Spud the Ambient Robot"
+        }
+      ]
+    }
+  ]
+}
