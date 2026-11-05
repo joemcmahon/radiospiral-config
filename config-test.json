@@ -3,7 +3,7 @@
     {
       "format": "azuracast",
       "server": "spiraltest.harriman4.com",
-      "exclude": ["inner-circle", "outer-limits", "pulse"]
+      "exclude": []
     },
     {
       "format": "static",
