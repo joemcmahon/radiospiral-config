@@ -3,7 +3,13 @@
     {
       "format": "azuracast",
       "server": "spiraltest.harriman4.com",
-      "exclude": []
+      "exclude": [],
+      "defaultDJs": {
+        "rs-one": "Spud",
+        "inner-circle": "Roshi",
+        "outer-limits": "Igor",
+        "pulse": "Bop"
+      }
     },
     {
       "format": "static",
