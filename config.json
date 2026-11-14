@@ -3,7 +3,7 @@
     {
       "format": "azuracast",
       "server": "spiral.radio",
-      "exclude": ["rstest"]
+      "exclude": ["rstest", "inner_sanctum", "outer_limits", "pulse"]
     },
     {
       "format": "static",
