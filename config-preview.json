@@ -34,6 +34,16 @@
           "defaultDJ": "Igor"
         },
         {
+          "name": "RadioSpiral ONE",
+          "streamURL": "https://spiral.radio:8050/radio.mp3",
+          "imageURL": "https://spiral.radio/static/uploads/one/album_art.png",
+          "desc": "captivating electronica",
+          "longDesc": "Our primary channel, with an eclectic selection of music 24/7. We have shows and live performances from our many DJs and continuous music the rest of the time from Spud the Ambient Robot.",
+          "serverName": "spiral.radio",
+          "shortCode": "one",
+          "defaultDJ": "Spud the Ambient Robot"
+        },
+        {
           "name": "Pulse",
           "streamURL": "https://spiral.radio:8040/radio.mp3",
           "imageURL": "https://spiral.radio/static/uploads/pulse/album_art.png",
